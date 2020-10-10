@@ -7,4 +7,5 @@ Ressources I use to learn d3 for data vizualizations
 
 
 ## Examples
-- [Group Bar Chart example](https://bl.ocks.org/bricedev/0d95074b6d83a77dc3ad)
+- [Grouped Bar Chart example](https://bl.ocks.org/bricedev/0d95074b6d83a77dc3ad)
+- [Another grouped Bar Chart example](https://observablehq.com/@d3/grouped-bar-chart)
