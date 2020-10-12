@@ -13,4 +13,5 @@ Ressources I use to learn d3 for data vizualizations
 - [Grouped Bar Chart example](https://bl.ocks.org/bricedev/0d95074b6d83a77dc3ad)
 - [Another grouped Bar Chart example](https://observablehq.com/@d3/grouped-bar-chart)
 - [Basic Line Charts](https://www.d3-graph-gallery.com/graph/line_basic.html)
+- [Starting with Graphs](http://thinkingonthinking.com/Getting-Started-With-D3/)
 - [Graphs: Forced Layout](https://bl.ocks.org/mbostock/950642)
