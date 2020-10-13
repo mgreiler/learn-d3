@@ -16,3 +16,4 @@ Ressources I use to learn d3 for data vizualizations
 - [Starting with Graphs](http://thinkingonthinking.com/Getting-Started-With-D3/)
 - [Graphs: Forced Layout](https://bl.ocks.org/mbostock/950642)
 - [Simple Bar Chart v4](https://bl.ocks.org/d3noob/bdf28027e0ce70bd132edc64f1dd7ea4)
+- [Grouped Bar Chart v4](https://bl.ocks.org/Andrew-Reid/64a6c1892d1893009d2b99b8abee75a7)
