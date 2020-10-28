@@ -19,6 +19,7 @@ Ressources I use to learn d3 for data vizualizations
 - [Grouped Bar Chart v4](https://bl.ocks.org/Andrew-Reid/64a6c1892d1893009d2b99b8abee75a7)
 - [Stacked Bar Chart v4](https://bl.ocks.org/mjfoster83/7c9bdfd714ab2f2e39dd5c09057a55a0)
 - [Pie Chart](http://bl.ocks.org/ChandrakantThakkarDigiCorp/c8ce360f8bc896ffa6c16d30a4cd026b)
+- [Rotate Axis](https://bl.ocks.org/d3noob/3c040800ff6457717cca586ae9547dbf)
 
 
 ## Data Visualization
