@@ -18,3 +18,8 @@ Ressources I use to learn d3 for data vizualizations
 - [Simple Bar Chart v4](https://bl.ocks.org/d3noob/bdf28027e0ce70bd132edc64f1dd7ea4)
 - [Grouped Bar Chart v4](https://bl.ocks.org/Andrew-Reid/64a6c1892d1893009d2b99b8abee75a7)
 - [Stacked Bar Chart v4](https://bl.ocks.org/mjfoster83/7c9bdfd714ab2f2e39dd5c09057a55a0)
+- [Pie Chart](http://bl.ocks.org/ChandrakantThakkarDigiCorp/c8ce360f8bc896ffa6c16d30a4cd026b)
+
+
+## Data Visualization
+- [The issue with pie charts](https://www.data-to-viz.com/caveat/pie.html)
