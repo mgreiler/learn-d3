@@ -20,6 +20,7 @@ Ressources I use to learn d3 for data vizualizations
 - [Stacked Bar Chart v4](https://bl.ocks.org/mjfoster83/7c9bdfd714ab2f2e39dd5c09057a55a0)
 - [Pie Chart](http://bl.ocks.org/ChandrakantThakkarDigiCorp/c8ce360f8bc896ffa6c16d30a4cd026b)
 - [Rotate Axis](https://bl.ocks.org/d3noob/3c040800ff6457717cca586ae9547dbf)
+- [Handling missing data points](https://stackoverflow.com/questions/41327533/how-to-check-for-nan-values-in-d3)
 
 
 ## Data Visualization
